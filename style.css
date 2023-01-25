@@ -1,0 +1,22 @@
+p{
+    background-color: grey;
+}
+
+p.para1{
+    background-color: orange;
+}
+
+p.para2{
+    color: white;
+    background-color: blue;
+}
+
+p.para3{
+    background-color: white;
+    font-size: larger;
+    border-style: groove;
+}
+
+p.para4{
+    font-weight: bold;
+}
